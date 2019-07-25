@@ -1,0 +1,47 @@
+
+.img2{
+    position:absolute;
+    top:11.5%;
+    left:47%;
+}
+.cla2{
+    position:absolute;
+    top:40%;
+    left:38%;
+    color:white;
+    font-size:63px;
+}      
+.cla3{
+    position:absolute;
+    top:52.8%;
+    left:26%;
+    color:white;
+    font-size:63px;
+}   
+.cla4{
+    position:absolute;
+    top:67%;
+    left:27%;
+    color:white;
+    font-size:15.6px;
+}     
+.img3{
+    position:absolute;
+    top:85%;
+    left:51%;
+    color:white;
+    font-size:15.6px;
+}
+.cla5{
+    background-size: 1000%;
+}
+.serv1{
+    position: absolute;
+    top:1500;
+}
+
+
+.serv2{
+    position: absolute;
+    top:1500;
+}
