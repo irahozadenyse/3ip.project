@@ -35,6 +35,8 @@
 
 .cla5{
     line-height: 250%;
+    background-color: aliceblue;
+    
 
 }
 
@@ -58,4 +60,31 @@
 .img4{
     margin-top:3%;
     margin-bottom:4%;
+}
+.cla6{
+    margin-bottom:4%;
+}
+.wid1{
+    margin-top:3%;
+    margin-bottom:4%;
+}
+
+.cla7{
+    margin-top:2%;
+    margin-bottom:2%;
+}
+.wid2{
+    font-size:100px;
+}
+.cal8{
+display:none;
+}
+.cal88{
+ display:none;   
+}
+.cal888{
+display:none;
+}
+h2{
+    font-size: 17px;
 }
