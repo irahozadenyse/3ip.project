@@ -32,16 +32,17 @@
     color:white;
     font-size:15.6px;
 }
-.cla5{
-    background-size: 1000%;
-}
+
 .serv1{
     position: absolute;
-    top:1500;
+    top:13.8%;
+    left:39%;
+    color:white;
+    font-size: 59px;
 }
 
 
 .serv2{
     position: absolute;
-    top:1500;
+    top:200%;
 }
