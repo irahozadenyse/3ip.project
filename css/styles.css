@@ -33,9 +33,14 @@
     font-size:15.6px;
 }
 
+.cla5{
+    line-height: 250%;
+
+}
+
 .serv1{
     position: absolute;
-    top:13.8%;
+    top:27%;
     left:39%;
     color:white;
     font-size: 59px;
@@ -44,5 +49,13 @@
 
 .serv2{
     position: absolute;
-    top:200%;
+    top:45%;
+    left:25%;
+    color:white;
+    font-size:16px;
+    line-height: 250%;
+}
+.img4{
+    margin-top:3%;
+    margin-bottom:4%;
 }
