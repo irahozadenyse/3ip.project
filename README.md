@@ -34,8 +34,12 @@ the name and comment and email by using the form to get this user input and even
 * css(styles.css and bootstrap)
 * jquery
 * javascripts
-<!-- ## Support and contact details
-
+ ## Support and contact details
+####contact us
+* tel:0783260920
+* email: irahodeny1@gmail.com
+* instagram: irahoza denyse
+* facebook: irahoza denyse
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}** --> --> --> -->
+
+Copyright (c) {2019} **{ IRAHOZA Denyse}** 
