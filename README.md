@@ -2,10 +2,10 @@
 ##DELINA STUDIO
 DELINA STUDIO is going to help you to spend necessary time to understand your product vision.
 Based on your requirement,it provide a complete offering or just the pieces you need.
+developed by 
+###IRAHOZA Denyse
 
-<!-- #### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-## Description
+<!-- ## Description
 this is project where i have to implement every thing i  learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio as shown below.
  
 ## Setup/Installation Requirements
@@ -23,4 +23,4 @@ this is project where i have to implement every thing i  learnt from Bootstrap a
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}** -->
+Copyright (c) {year} **{List of contributors or company name}** --> -->
