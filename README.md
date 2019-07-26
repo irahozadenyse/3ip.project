@@ -19,19 +19,23 @@ We provide branding strategy,interaction and visual design and user experience t
 We have engineer who havs experience in mobile and web development technologies. They collaborate with your team to produce needed again thourght pair programming.
 ##### product management
 Planning and development is the first. Because we are constantly working for mantaining the quality and even improve the quality.This process allows for changes as business requirements increases.
-<!-- ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+ ## Setup/Installation Requirements
+ 
+   * Personal computer
+   * Visual Studio Code
+   * Browser(Chrome is advisable)
+   * Click on link below to use this application
+## BDD(Bihavior Driven DEVELOPMENT)
+Requirement include the portifolio,
+the name and comment and email by using the form to get this user input and even use jquery to get the user inputand provide an alert to tell him or he to that you have get what he/she entered.
+
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
-## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+* html
+* css(styles.css and bootstrap)
+* jquery
+* javascripts
+<!-- ## Support and contact details
+
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}** --> --> -->
+Copyright (c) {year} **{List of contributors or company name}** --> --> --> -->
