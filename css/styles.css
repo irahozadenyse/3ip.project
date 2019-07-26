@@ -89,3 +89,14 @@ display:none;
 h2{
     font-size: 17px;
 }
+form{
+top:40%;
+}
+    
+
+.cla10{
+    top:10%;
+    left:40%;
+    position:absolute;
+    color:white;
+}
