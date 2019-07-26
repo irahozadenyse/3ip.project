@@ -125,7 +125,7 @@ color: white;
 #comment{
     margin-top: 1%;
     background-color: transparent;
-    margin-left: 0%;
+    margin-left: 6%;
     width:700px;
     height:200px;
     color: white;
@@ -136,5 +136,24 @@ color: white;
     color:aliceblue;
     width:100px;
     height:50px;
-    margin-top: 10%;
 }
+.wrd1{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+}
+/* .wrd1>h3{
+    position: absolute;
+    transform: translate(-50%);
+    top:50%;
+    left:50%;
+    margin:0px;
+    padding:0px
+} */
