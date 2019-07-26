@@ -242,34 +242,41 @@ color: white;
     font-size: 20px;
     font-family:sans-serif;
     font-style:oblique;
-}
-/* #icon1{
-    margin-left:370%;
+ }
+ /* #icon1{
+    margin:50%;
 }
 #icon2{
-    margin-left:380%;
+    margin:70%;
 }
 #icon3{
-    margin-left:390%;
+    margin:90%;
 }
 #icon4{
-    margin-left:400%;
+    margin:120%;
 }
 #icon5{
-    margin-left:410%;
+    margin:140%;
 }
 #icon6{
-    margin-left:420%;
+    margin:160%;
 }
 #icon7{
-    margin-left:430%;
+    margin:180%;
 }
 #icon8{
-    margin-left:440%;
+    margin:200%;
 } */
 
 .icons{
-    text-align: center;
-    margin-left: 450px;
-space:around;
+    
+margin-left: 450px;
+display:flex;
+justify-content:space-between;
+
+
+}
+.last{
+    font-size:15px;
+    margin-top:15px;
 }
