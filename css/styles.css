@@ -75,7 +75,9 @@
     margin-bottom:2%;
 }
 .wid2{
-    font-size:100px;
+    font-size:80px;
+    padding-left:150px;
+    padding-right: 150px;
 }
 .cal8{
 display:none;
@@ -148,12 +150,126 @@ color: white;
     color:black;
     font-size: 20px;
     font-family:sans-serif;
+    font-style:oblique;
 }
-/* .wrd1>h3{
-    position: absolute;
-    transform: translate(-50%);
-    top:50%;
+.wrd2{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
     left:50%;
-    margin:0px;
-    padding:0px
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd3{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd4{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd5{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd6{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd7{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+.wrd8{
+    position :absolute;
+    transform: translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    text-align: center;
+    width:90px;
+    height: 90px;
+    color:black;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style:oblique;
+}
+/* #icon1{
+    margin-left:370%;
+}
+#icon2{
+    margin-left:380%;
+}
+#icon3{
+    margin-left:390%;
+}
+#icon4{
+    margin-left:400%;
+}
+#icon5{
+    margin-left:410%;
+}
+#icon6{
+    margin-left:420%;
+}
+#icon7{
+    margin-left:430%;
+}
+#icon8{
+    margin-left:440%;
 } */
+
+.icons{
+    text-align: center;
+    margin-left: 450px;
+space:around;
+}

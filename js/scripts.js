@@ -14,91 +14,106 @@ $(document).ready(function() {
         $(".cal888").toggle();
       $(".cal999").toggle();
     });
-  });
-function got(){
-  var nn=document.getElementById("nam").Value;
-  var ee=document.getElementById("em").value;
-  var cc=document.getElementById("comment").value;
+  
 
-
-  if(nn===name){
-    alert("thank you")
-  }
-  else if(ee===email ){
-    alert("thank you")
-}
-else if(cc==="Your message here"){
-  alert("thank you")
-}
-else{
-  alert("start again")
-}
-}
-
-
-
-
-
-
-$(document).ready(function(){
-  $("#work1").click(function(){
     $(".wrd1").hide();
-    $("#im1").show();
-  });
-$("#work1").hover(function(){
+    $("#work1").css({
+      opacity:1
+    });
+    $(".wrd2").hide();
+    $("#work2").css({
+      opacity:1
+    });
+    $(".wrd3").hide();
+    $("#work3").css({
+      opacity:1
+    });
+    $(".wrd4").hide();
+    $("#work4").css({
+      opacity:1
+    });
+    $(".wrd5").hide();
+    $("#work5").css({
+      opacity:1
+    });
+    $(".wrd6").hide();
+    $("#work6").css({
+      opacity:1
+    });
+    $(".wrd7").hide();
+    $("#work7").css({
+      opacity:1
+    });
+    $(".wrd8").hide();
+    $("#work8").css({
+      opacity:1
+    });
+ 
+$("#im1").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd1").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd1").fadeOut();
 });
-$("#work2").hover(function(){
+$("#im2").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd2").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd2").fadeOut();
 });
-$("#work3").hover(function(){
+$("#im3").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd3").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd3").fadeOut();
 });
-$("#work4").hover(function(){
+$("#im4").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd4").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd4").fadeOut();
 });
-$("#work5").hover(function(){
+$("#im5").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd5").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd5").fadeOut();
 });
-$("#work6").hover(function(){
+$("#im6").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd6").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd6").fadeOut();
 });
-$("#work7").hover(function(){
+$("#im7").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd7").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd7").fadeOut();
 });
-$("#work8").hover(function(){
+$("#im8").hover(function(){
   $(this).css({opacity:.3});
-  $(this).fadein();
+  $(".wrd8").fadeIn();
 },function(){
   $(this).stop().css({opacity:1})
-  $(this).fadeout();
+  $(".wrd8").fadeOut();
 });
 });
+
+
+
+function got(){
+  var nn =document.getElementById("nam");
+  var ee =document.getElementById("em");
+  var com =document.getElementById("comment");
+  console.log(nam)
+  document.getElementById("sub")
+  alert("Hello " + nam.value  + " thank you for contacting us " +","+ "we care about you")
+};
