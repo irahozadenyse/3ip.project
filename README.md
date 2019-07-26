@@ -5,10 +5,21 @@ Based on your requirement,it provide a complete offering or just the pieces you 
 developed by 
 ###IRAHOZA Denyse
 
-<!-- ## Description
-this is project where i have to implement every thing i  learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio as shown below.
- 
-## Setup/Installation Requirements
+ ## Description
+ ####about us
+We work as team with you and aspects of our software development process are intergrated.
+We respect time and we mantain good and high quality of what we do.
+We start each project by understanding your business goals,
+the user's needs and the product requirements.
+Then we provide needed product.
+####services we offer
+##### desgin
+We provide branding strategy,interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual designs where user provide feefback from the starting antil the end and work with you to make sure what gets is what is needed.
+##### development
+We have engineer who havs experience in mobile and web development technologies. They collaborate with your team to produce needed again thourght pair programming.
+##### product management
+Planning and development is the first. Because we are constantly working for mantaining the quality and even improve the quality.This process allows for changes as business requirements increases.
+<!-- ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
 * in a simple
@@ -23,4 +34,4 @@ this is project where i have to implement every thing i  learnt from Bootstrap a
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}** --> -->
+Copyright (c) {year} **{List of contributors or company name}** --> --> -->
