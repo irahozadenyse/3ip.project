@@ -243,36 +243,12 @@ color: white;
     font-family:sans-serif;
     font-style:oblique;
  }
- /* #icon1{
-    margin:50%;
-}
-#icon2{
-    margin:70%;
-}
-#icon3{
-    margin:90%;
-}
-#icon4{
-    margin:120%;
-}
-#icon5{
-    margin:140%;
-}
-#icon6{
-    margin:160%;
-}
-#icon7{
-    margin:180%;
-}
-#icon8{
-    margin:200%;
-} */
 
 .icons{
-    
+    border-spacing: 10px;
 margin-left: 450px;
 display:flex;
-justify-content:space-between;
+justify-content:space-around;
 
 
 }
