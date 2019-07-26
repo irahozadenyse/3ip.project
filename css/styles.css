@@ -89,22 +89,44 @@ display:none;
 h2{
     font-size: 17px;
 }
-form{
+.inp{
 background-image:url( "../img/3.jpg");
 background-size: cover;
-height:420px;
-width:1230px;
+height:440px;
+width:100%;
 
 }
     
 
 .cla10{
-    top:10%;
-    left:40%;
+    margin-top:3%;
+    left:39%;
     position:absolute;
     color:white;
+    font-size: 30px;
+    border-inline-end-width: 50px;
 }
-.nam{
-    margin-top:100px
+#nam{
+    margin-top: 6.5%;
+    background-color: transparent;
+    font-size: 23px;
+    margin-left: 0%;
+    height:30px;
+color:white;
 }
-
+#em{
+    margin-top: 6.5%; 
+    font-size: 23px;
+    margin-left: 5%;
+    background-color: transparent;
+    height:30px;
+    color:white;
+}
+#comment{
+    margin-top: 1%;
+    background-color: transparent;
+    margin-left: 0%;
+    width:700px;
+    height:200px;
+    color:white;
+}
