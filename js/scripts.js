@@ -115,7 +115,6 @@ function got(){
   var com =document.getElementById("comment");
   console.log(nam)
   document.getElementById("sub")
-  if(nn==name){ 
   alert("Hello " + nam.value  + " thank you for contacting us " +","+ "we care about you")
-  }
+
 };
